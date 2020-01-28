@@ -90,6 +90,10 @@ p.lead {
     padding-right: 20%;;
 }
 
+.text-primary {
+    color: #006EE5!important
+}
+
 #about-me {
     padding-right: 25%;
     padding-left: 25%;
