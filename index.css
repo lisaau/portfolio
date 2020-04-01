@@ -32,6 +32,18 @@ h3 {
     font-size: 2rem;
 }
 
+table {
+    text-align: center;
+    margin: auto;
+    width: 80%
+}
+th {
+    text-align: center;
+    font-size: 1.3em;
+    text-decoration: underline;
+}
+
+
 p.lead {
     font-size: 1.15rem;
     font-weight: 400;
