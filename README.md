@@ -6,7 +6,7 @@ This project is from [Techtonica](https://techtonica.org/)'s open source curricu
 
 The site is hosted on both Netlify and GitHub:
 
-https://lisaau.github.io/portfolio-website-assignment/
+https://lisaau.github.io/portfolio/
 
 https://lisaau.netlify.com/
 
