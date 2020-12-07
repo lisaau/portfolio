@@ -14,4 +14,4 @@ https://lisaau.netlify.com/
 
 ### Future work
 
--  Re-doing the site using React and/or Angular
+-  Refactor the site using React or Angular
