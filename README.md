@@ -10,3 +10,8 @@ https://lisaau.github.io/portfolio/
 
 https://lisaau.netlify.com/
 
+
+
+### Future work
+
+-  Re-doing the site using React and/or Angular
