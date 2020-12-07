@@ -14,4 +14,5 @@ https://lisaau.netlify.com/
 
 ### Future work
 
--  Refactor the site using React or Angular
+- Refactor the site using React or Angular
+- Refactor HTML to individual sections
